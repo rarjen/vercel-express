@@ -1,0 +1,20 @@
+{
+  "name": "pert5-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Otniel Kevin Abiel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "unique-names-generator": "^4.7.1",
+    "vercel": "^28.4.12"
+  }
+}
